@@ -1,15 +1,19 @@
-# BioGen AI
+# AI Bio Gen
 
-BioGen AI is an AI-powered Instagram bio generator. Simply input your keywords and desired tone, and let our AI craft a compelling and creative bio for you. Perfect for personal branding, small businesses, and anyone looking to enhance their Instagram presence.
+**Craft your perfect Instagram bio with the power of AI!**
 
-## Features
+AI Bio Gen is a web application that helps social media influencers, small business owners, and anyone looking for a unique online presence create compelling Instagram bios. Simply provide some keywords or a prompt, and our AI will generate creative and catchy bio options for you.
 
-*   **AI-Powered Generation:** Leverages advanced AI to create unique bios.
-*   **Customizable Tones:** Choose from witty, professional, inspirational, and more.
-*   **Keyword Input:** Tailor bios to your specific interests and niche.
-*   **Instant Results:** Get your new bio in seconds.
-*   **Simple & Affordable:** Easy to use with a clear pricing model.
+## Features:
 
-## Get Started
+*   AI-powered bio generation
+*   User-friendly interface
+*   Affordable pricing for individual or bundled generations
 
-Visit [your-domain-here.com](http://your-domain-here.com) to generate your first Instagram bio today!
+## How it works:
+
+1.  Enter keywords or a prompt describing yourself or your brand.
+2.  Our AI generates several unique bio options.
+3.  Choose your favorite and dazzle your followers!
+
+Get started today and make your Instagram profile shine!
